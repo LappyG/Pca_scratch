@@ -56,11 +56,5 @@ Notes:
 ### Reproducible Demo
 The built-in demo (`_demo()`) constructs a 2D correlated dataset, runs PCA for `k=1` and `k=2`, and prints results. Run via:
 
-```bash
-python /Users/mananawasthi/Desktop/Pca_scratch/pca_from_scratch.py
-```
-
-### License
-MIT
 
 
